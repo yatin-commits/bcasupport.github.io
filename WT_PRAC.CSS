@@ -27,12 +27,16 @@ font-family: 'Ubuntu', sans-serif; */
 #contact{
     margin-left: 20px;
 }  
+.navbolte{
+    margin-top: 10px;
+}
 .BTN{
     text-decoration: none;
     color: black;
     font-weight: 700;
     
 }
+
 .BTN:hover{
     color: black;
 }
