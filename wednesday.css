@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* bor  der: 1px solid black; */
+}
+.nav_home{
+    color: rgb(0, 0, 0);
+    margin-left: 26px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 19px;
+}
+.navbolte{
+    margin-top: 10px;
+}
+#navbarDropdown{
+    color: rgb(0, 0, 0);
+    margin-left: 25px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    
+     } 
+#contact{
+    margin-left: 20px;
+}  
+.BTN{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    
+}
+.BTN:hover{
+    color: black;
+}
+.td{
+    padding: 0px;
+}   

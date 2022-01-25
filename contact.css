@@ -1,0 +1,84 @@
+.yatin{
+    font-family: 'Poppins', sans-serif;
+}
+.shift{
+    font-family: 'Poppins', sans-serif;
+}
+.mail{
+    height: 40px;
+    display: inline;
+    /* margin: 10px; */
+}
+.mail1{
+    height: 40px;
+    display: inline;
+    margin: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    /* bor  der: 1px solid black; */
+}
+.nav_home{
+    color: rgb(0, 0, 0);
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 19px;
+}
+#navbarDropdown{
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    
+     }
+     .yatin_pro{
+         height: 200px;
+         background-color:lightblue;
+     } 
+     .yatin{
+         background-color: lightblue;
+     }
+
+     .github{
+         height: 50px;
+         margin-right: 10px;
+     }
+#contact{
+    margin-left: 20px;
+} 
+@media (min-width: 200px) and (max-width: 500px) {
+    #new{
+        display: none;
+    }
+}
+.navbolte{
+    margin-top: 10px;
+}
+.btn{
+    color: black;
+}
+
+
+.nav-item a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 600;
+}
+@media (min-width: 200px) and (max-width: 450px) 
+{
+    .yatin_pro{
+        height: 150px;
+    }
+}
+@media (min-width: 150px) and (max-width: 250px) {
+    .yatin_pro{
+        height: 100px;
+    }
+    .github{
+        margin-top: 10px;
+
+    }
+   

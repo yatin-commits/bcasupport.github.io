@@ -1,0 +1,62 @@
+/* font-family: 'Italianno', cursive;
+font-family: 'Noto Sans Mono', monospace;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    /* bor  der: 1px solid black; */
+}
+.navbolte{
+    margin-top: 10px;
+}
+.nav_home{
+    color: rgb(0, 0, 0);
+    margin-left: 26px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 19px;
+}
+#navbarDropdown{
+    color: rgb(0, 0, 0);
+    margin-left: 25px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    
+     } 
+#contact{
+    margin-left: 20px;
+}     
+.text{
+    font-family: 'Poppins', sans-serif;
+    color: blue;
+}
+.text2{
+    color: red;
+}
+.text3{
+    color: green;
+}
+.heading{
+    font-family: 'Poppins', sans-serif;
+}
+.BTN{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    
+}
+.BTN:hover{
+    color: black;
+}
+.CARD_1{
+    background-color: lightblue;
+    /* margin-left:20px;
+    margin-right:20px; */
+    border-radius: 10px;
+    color: rebeccapurple;
+}

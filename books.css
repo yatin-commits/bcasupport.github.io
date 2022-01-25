@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* bor  der: 1px solid black; */
+}
+.nav_home{
+    color: rgb(0, 0, 0);
+    margin-left: 26px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 19px;
+}
+#navbarDropdown{
+    color: rgb(0, 0, 0);
+    margin-left: 25px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    
+     } 
+#contact{
+    margin-left: 20px;
+}  
+.BTN{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    
+}
+.BTN:hover{
+    color: black;
+}
+
+@media (min-width: 200px) and (max-width: 400px) {
+    #new{
+        display: none;
+    }
+}
+
+
+        
+.hehe{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .card-body
+  {
+    font-family: 'Poppins', sans-serif;
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    color: black;
+    /* background-color: blue; */
+  }
+  .yatin{
+      background-color: aqua;
+      border-radius: 10px;
+  }
+  .navbolte{
+    margin-top: 10px;
+}
+  footer{
+    height: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.f-div{
+    display: flex;
+    justify-content: space-around;
+}
+.github{
+    height: 50px;
+}
+/* .rights{
+    background-color: black;
+    color: white;
+} */
+.av_home:hover{
+    color: tomato;
+}
