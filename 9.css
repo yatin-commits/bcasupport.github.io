@@ -1,0 +1,10 @@
+.first{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 900px;
+    margin-top: 20px;
+    /* padding: 10px; */
+}
+.img{
+    border-radius: 50% ;
+}
