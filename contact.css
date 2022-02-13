@@ -35,8 +35,9 @@
     
      }
      .yatin_pro{
-         height: 200px;
+         height: 150px;
          background-color:lightblue;
+         border-radius: 50%;
      } 
      .yatin{
          background-color: lightblue;
