@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .yatin{
     font-family: 'Poppins', sans-serif;
 }
@@ -82,4 +87,3 @@
         margin-top: 10px;
 
     }
-   

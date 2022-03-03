@@ -2,9 +2,14 @@
     border: 1px solid black;
     border-radius: 10px;
     width: 900px;
-    margin-top: 20px;
+    margin-bottom: 30px;
     /* padding: 10px; */
 }
 .img{
-    border-radius: 50% ;
+    border-radius: 50%;
+    height: 300px ;
+}
+body{
+    background-color: aqua;
+    font-family: 'Poppins', sans-serif;
 }
